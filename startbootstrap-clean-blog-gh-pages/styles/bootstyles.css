@@ -1,0 +1,131 @@
+/* Donald Bishop 12/16/2021*/
+body {
+    background-color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.common {
+background-color: #CCCCCC ;
+    border: solid 2px white;
+    position: absolute;
+
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 45px;
+    border-right: solid 1px #555555;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 5px;
+    right: 5px;
+}
+
+.rightmenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 64px;
+    border-left: solid 1px #555555;
+    padding-left: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+    border-top: solid 1px #555555;
+}
+
+.subheader {
+    float: right;
+
+}
+
+/* this is styles*/
+
+
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 15px; color: rgb(12, 30, 82);
+}
+ul {font-size: 12px;color:rgb(209, 157, 12)
+}
+
+a {color: rgb(87, 9, 9)
+}
+
+.swag {font-weight: bold;font-style: normal
+}
+
+li {font-weight: normal;font-style: italic;
+}
+
+.underline {text-decoration: underline;font-weight: normal;
+}
+
+.justify {
+    text-align: center;
+}
+
+.backgroundhome {
+    background-image:
+    url('images/swag.jpeg');
+
+}
+
+.box1 {
+    border: solid 1px pink;
+    border-bottom: dotted 4px blue;
+}
+
+.box2 {
+    border: dotted 5px yellow;
+    margin: 50px
+}
+
+.box3 {
+    border:solid 10px lavender;
+    padding: 4px
+}
+
+
+.sanserifbaby {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.common2 {
+    background-color: #CCCCCC ;
+        border: solid 2px white;
+        position: absolute;
+        font-style: italic;
+
+}
+
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: gold;
+}
